@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.6df6fd21.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"work/大文件下载.md","lastUpdated":1675774867000}'),r={name:"work/大文件下载.md"};function o(s,_,c,n,p,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

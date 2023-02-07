@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./app.6df6fd21.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/pnpm 搭建 monorepo.md","lastUpdated":1675774867000}'),a={name:"docs/pnpm 搭建 monorepo.md"};function n(p,r,s,c,_,m){return t(),o("div")}const f=e(a,[["render",n]]);export{i as __pageData,f as default};
