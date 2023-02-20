@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.9e805d43.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/实现一个简单的vite插件.md","lastUpdated":1676862711000}'),_={name:"vue3/实现一个简单的vite插件.md"};function r(o,s,c,n,i,p){return a(),t("div")}const f=e(_,[["render",r]]);export{m as __pageData,f as default};
