@@ -1,1 +1,0 @@
-import{_ as t,c as o,a,o as n,r}from"./app.dbf86312.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"work/index.md","lastUpdated":1675774867000}'),s={name:"work/index.md"};function c(d,p,l,_,i,m){const e=r("MyAllDocs");return n(),o("div",null,[a(e,{type:"work"})])}const k=t(s,[["render",c]]);export{x as __pageData,k as default};
